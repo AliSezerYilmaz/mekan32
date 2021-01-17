@@ -5,7 +5,7 @@ var request = require('postman-request');
 var footer = "Ali Sezer Yılmaz 2021"
 
 var apiSecenekleri = {
-	sunucu: "http://localhost:3000",
+	sunucu: "https://alisezeryilmaz1811012053.herokuapp.com",
 	apiYolu: "/api/mekanlar/"
 }
 var istekSecenekleri
